@@ -1,4 +1,4 @@
 - 👋 Hi, I’m @Moragor
 - 👀 I’m interested in electronics, 3D printing, photography, PC gaming, anime and manga
 - 🌱 I’m currently learning Arduino C++ and making PCBs
-- 📫 How to reach me: Mastodon: @moragor@mastodon.social, Reddit: /u/moragor, Twatter: @Moragor87
+- 📫 How to reach me: Mastodon: @moragor@mstdn.games, Reddit: /u/moragor, Twatter: @Moragor87
